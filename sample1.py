@@ -15,7 +15,7 @@ from sklearn.metrics import silhouette_score
 import joblib
 
 user = "postgres"
-password = "HFN8874k."
+password = "12345"
 host = "localhost"
 port = "5432"
 database = "Northwind"
