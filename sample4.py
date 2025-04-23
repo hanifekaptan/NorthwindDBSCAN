@@ -17,7 +17,7 @@ from sklearn.metrics import silhouette_score
 # --- Database Connection ---
 # Reuse credentials from sample1.py
 user = "postgres"
-password = "HFN8874k." # Consider using environment variables or a config file for credentials
+password = "12345" # Consider using environment variables or a config file for credentials
 host = "localhost"
 port = "5432"
 database = "Northwind"
